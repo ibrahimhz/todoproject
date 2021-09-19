@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Install React",
+    "type": "task",
+    "column": "Done"
+  },
+  {
+    "id": 2,
+    "title": "Setup GitHub",
+    "type": "task",
+    "column": "Review"
+  },
+  {
+    "id": 3,
+    "title": "Invite Collaborators",
+    "type": "task",
+    "column": "Done"
+  },
+  {
+    "id": 4,
+    "title": "Install Dependencies",
+    "type": "task",
+    "column": "In-progress"
+  },
+  {
+    "id": 5,
+    "title": "Create App Component",
+    "type": "feature",
+    "column": "Review"
+  },
+  {
+    "id": 6,
+    "title": "Plan Component Diagram",
+    "type": "task",
+    "column": "Review"
+  },
+  {
+    "id": 7,
+    "title": "Create Grid View",
+    "type": "feature",
+    "column": "In-progress"
+  },
+  {
+    "id": 8,
+    "title": "Create List View",
+    "type": "feature",
+    "column": "Todo"
+  },
+  {
+    "id": 9,
+    "title": "Create Add Form",
+    "type": "feature",
+    "column": "Todo"
+  },
+  {
+    "id": 10,
+    "title": "App Crashs! :(",
+    "type": "bug",
+    "column": "Done"
+  }
+]
